@@ -86,11 +86,6 @@ Contains ball-by-ball match details:
 * **CSV data files**
 * **GitHub** for hosting
 
----
 
-If you want, I can also create:
-✅ portfolio-friendly description
-✅ a short version
-✅ a creative one-line description for your GitHub repo
 
 
