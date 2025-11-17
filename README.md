@@ -1,4 +1,4 @@
-Here is your updated **IPL Analysis Dashboard README** — with **“How to Run This Project” removed**, clean formatting, and font style like the example.
+
 
 ---
 
